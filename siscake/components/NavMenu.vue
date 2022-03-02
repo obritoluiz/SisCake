@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-navbar toggleable="lg" class="barra--nav">
-      <b-navbar-brand class="txt--logo" href="#">interHUBX</b-navbar-brand>
+      <b-navbar-brand class="txt--logo" href="#">SisCake</b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       

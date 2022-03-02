@@ -2,15 +2,13 @@
   {
     "name": "Login",
     "path": "/Login",
-    "component": "D:\\\\PROJETOS\\\\ALDO\\\\interhubx\\\\pages\\\\Login.vue",
-    "chunkName": "pages/Login",
-    "_name": "_7d59e48a"
+    "component": "D:\\\\PROJETOS\\\\SisCake\\\\siscake\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\PROJETOS\\\\ALDO\\\\interhubx\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3c402193"
+    "component": "D:\\\\PROJETOS\\\\SisCake\\\\siscake\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
