@@ -1,0 +1,20 @@
+{
+  "Clientes": {
+    "description": "Auto imported from components/Clientes.vue"
+  },
+  "Colaboradores": {
+    "description": "Auto imported from components/Colaboradores.vue"
+  },
+  "NavMenu": {
+    "description": "Auto imported from components/NavMenu.vue"
+  },
+  "Ordens": {
+    "description": "Auto imported from components/Ordens.vue"
+  },
+  "Painel": {
+    "description": "Auto imported from components/Painel.vue"
+  },
+  "TelaColaborador": {
+    "description": "Auto imported from components/TelaColaborador.vue"
+  }
+}
